@@ -4,7 +4,7 @@
 
 # Visualization:
 
-In this homework, I have created visualization using Tableau. The dataset was provided to us students, and this were pulled from the Citi Bike data webpage.
+In this homework, I have created visualization using Tableau for the New York Citi Bike sharing program. The dataset was provided to us students, and this were pulled from the Citi Bike data webpage.  
 
 # Source:
 * https://www.citibikenyc.com/system-data)
@@ -13,7 +13,7 @@ In this homework, I have created visualization using Tableau. The dataset was pr
 * https://public.tableau.com/profile/monica.zulueta.linsangan#!/vizhome/NY_Citi_Bike_15647172610540/Overview?publish=yes
 
 
-# The dataset of Citi Bike Trip History Logs were utilized to build a data dashboard and reports shown on the following images:
+# The Dataset of New York Citi Bike Trip History Logs were utilized to build a data dashboard and reports/worksheets shown on the following images:
 
 ### Dataset
 ![Data Dashboard/Overview](images/Dataset.png)
