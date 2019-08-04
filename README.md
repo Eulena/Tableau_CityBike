@@ -22,28 +22,28 @@ In this project, I have created visualization using Tableau. The dataset was pro
 ![Data Dashboard/Overview](images/Overview.png)
 
 ### Single Bike
-![Data Dashboard/Overview](images/Single Bike.png)
+![Data Dashboard/Overview](images/SingleBike.png)
 
 ### Trips Length
-![Data Dashboard/Overview](images/Trips Length.png)
+![Data Dashboard/Overview](images/TripsLength.png)
 
 ### Gender by Age
-![Data Dashboard/Overview](images/Gender by Age.png)
+![Data Dashboard/Overview](images/GenderbyAge.png)
 
 ### Ridership Growth
-![Data Dashboard/Overview](images/Ridership Growth.png)
+![Data Dashboard/Overview](images/RidershipGrowth.png)
 
 ### Outgoing Trips
-![Data Dashboard/Overview](images/Outgoing Trips.png)
+![Data Dashboard/Overview](images/OutgoingTrips.png)
 
 ### Incoming Trips
-![Data Dashboard/Overview](images/Incoming Trips.png)
+![Data Dashboard/Overview](images/IncomingTrips.png)
 
 ### NumberOfTrips
 ![Data Dashboard/Overview](images/NumberOfTrips.png)
 
 ### Incoming Trips
-![Data Dashboard/Overview](images/Incoming Trips.png)
+![Data Dashboard/Overview](images/IncomingTrips.png)
 
 ### SubscribersPercentage
 ![Data Dashboard/Overview](images/SubscribersPercentage.png)
@@ -61,22 +61,22 @@ In this project, I have created visualization using Tableau. The dataset was pro
 ![Data Dashboard/Overview](images/Top10Stations.png)
 
 ### Top & Bottom Start
-![Data Dashboard/Overview](images/Top_Bottom Start.png)
+![Data Dashboard/Overview](images/TopBottomStart.png)
 
 ### Top & Bottom End
-![Data Dashboard/Overview](images/Top_Bottom End.png)
+![Data Dashboard/Overview](images/TopBottomEnd.png)
 
 ### Popularity by Month
-![Data Dashboard/Overview](images/Popularity by Month.png)
+![Data Dashboard/Overview](images/PopularitybyMonth.png)
 
 ### Bike Usage
-![Data Dashboard/Overview](images/Bike Usage.png)
+![Data Dashboard/Overview](images/BikeUsage.png)
 
 ### Elderly Rides
-![Data Dashboard/Overview](images/Elderly Rides.png)
+![Data Dashboard/Overview](images/ElderlyRides.png)
 
 ### Bikes Rotation
-![Data Dashboard/Overview](images/Bikes Rotation.png)
+![Data Dashboard/Overview](images/BikesRotation.png)
 
 ### Rides of Bike
 ![Data Dashboard/Overview](images/RidesOfBike.png)
@@ -85,10 +85,10 @@ In this project, I have created visualization using Tableau. The dataset was pro
 ![Data Dashboard/Overview](images/StationVisits.png)
 
 ### Age of Bike Riders
-![Data Dashboard/Overview](images/Age of Bike.png)
+![Data Dashboard/Overview](images/AgeOfBike.png)
 
 ### Trips by Bike
-![Data Dashboard/Overview](images/Trips By Bike.png)
+![Data Dashboard/Overview](images/TripsByBike.png)
 
 
 
