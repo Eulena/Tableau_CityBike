@@ -4,7 +4,7 @@
 
 # Visualization:
 
-In this project, I have created visualization using Tableau. The dataset was provided to us students, and this were pulled from the Citi Bike data webpage.
+In this homework, I have created visualization using Tableau. The dataset was provided to us students, and this were pulled from the Citi Bike data webpage.
 
 # Source:
 * https://www.citibikenyc.com/system-data)
