@@ -6,14 +6,14 @@
 
 In this project, I have created visualization using Tableau. The dataset was provided that were pulled from the Citi Bike data webpage (
 
-#### Source:
+# Source:
 * https://www.citibikenyc.com/system-data)
 
-### Click on the web link below:
+# Click on the web link below:
 * https://public.tableau.com/profile/monica.zulueta.linsangan#!/vizhome/NY_Citi_Bike_15647172610540/Overview?publish=yes
 
 
-### The dataset of Citi Bike Trip History Logs were utilized to build a data dashboard and reports shown on the following images:
+# The dataset of Citi Bike Trip History Logs were utilized to build a data dashboard and reports shown on the following images:
 
 ### Dataset
 ![Data Dashboard/Overview](images/Dataset.png)
