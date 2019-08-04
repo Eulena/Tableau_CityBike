@@ -9,7 +9,7 @@ In this project, I have created visualization using Tableau. The dataset was pro
 # Source:
 * https://www.citibikenyc.com/system-data)
 
-# Click on the web link below:
+# Tableau Output web link below:
 * https://public.tableau.com/profile/monica.zulueta.linsangan#!/vizhome/NY_Citi_Bike_15647172610540/Overview?publish=yes
 
 
