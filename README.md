@@ -39,13 +39,13 @@ In this project, I have created visualization using Tableau. The dataset was pro
 ### Incoming Trips
 ![Data Dashboard/Overview](images/IncomingTrips.png)
 
-### NumberOfTrips
+### Number Of Trips
 ![Data Dashboard/Overview](images/NumberOfTrips.png)
 
 ### Incoming Trips
 ![Data Dashboard/Overview](images/IncomingTrips.png)
 
-### SubscribersPercentage
+### Subscribers Percentage
 ![Data Dashboard/Overview](images/SubscribersPercentage.png)
 
 ### Subscribers & Customers
